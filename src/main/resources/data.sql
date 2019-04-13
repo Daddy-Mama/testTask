@@ -1,1 +1,1 @@
-insert into employee(employeeId, employeeName , employeeAddress,employeeEmail) values('1','Jack','USA','jack@gmail.com');
+insert into sample.task(first_name,last_name,scheduled_date,notes,title) values('Artem','K',NOW(),'super-pooper note', 'Mr');
