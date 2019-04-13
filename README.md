@@ -10,6 +10,8 @@ open http://localhost:8080/swagger-ui.html#
 
 
 Additional:
+Make sure that you have localhost:5432/postgres with cred-s postgres/postgres
+
 database creates automatically when you build project.
 Automatically run button makes  build by spring.
 
